@@ -1,0 +1,8 @@
+{
+    "editor.minimap.enabled": false,
+    "editor.fontFamily": "Source Code Pro",
+    "workbench.colorTheme": "Monokai",
+    "vim.handleKeys": {
+        "<C-w>": false
+    },
+}
