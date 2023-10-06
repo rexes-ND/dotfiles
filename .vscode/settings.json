@@ -2,16 +2,19 @@
     "editor.minimap.enabled": false,
     "editor.fontFamily": "Source Code Pro",
     "workbench.colorTheme": "Monokai",
+    "workbench.iconTheme": "material-icon-theme",
+    "eslint.run": "onSave",
+    "terminal.integrated.defaultProfile.linux": "bash",
     "vim.handleKeys": {
         "<C-w>": false,
         "<C-p>": false,
     },
     "[python]": {
-        "editor.formatOnSave": true,
         "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.formatOnSave": true,
     },
     "[javascript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode",
         "editor.formatOnSave": false
-    }
+    },
 }
