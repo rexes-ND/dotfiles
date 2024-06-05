@@ -20,5 +20,5 @@
 		"editor.defaultFormatter": "llvm-vs-code-extensions.vscode-clangd",
 		"editor.tabSize": 2,
 		"editor.formatOnSave": true
-    }
+    	}
 }
