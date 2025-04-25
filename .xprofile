@@ -1,0 +1,8 @@
+# Disable the X11 screen saver
+xset s off
+
+# Prevent screen blanking
+xset s noblank
+
+# Disable Display Power Management Signaling
+xset -dpms

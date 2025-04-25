@@ -1,14 +1,5 @@
 {
   "editor.formatOnSave": true,
-  "editor.minimap.enabled": false,
-  "editor.fontFamily": "Source Code Pro",
-  "workbench.colorTheme": "Monokai",
-  "workbench.iconTheme": "material-icon-theme",
-  "terminal.integrated.defaultProfile.linux": "bash",
-  "vim.handleKeys": {
-    "<C-w>": false,
-    "<C-p>": false
-  },
   "[python]": {
     "editor.defaultFormatter": "charliermarsh.ruff"
   },
@@ -17,5 +8,6 @@
   },
   "[c][cpp]": {},
   "C_Cpp.default.compilerPath": "/usr/bin/clang++",
-  "C_Cpp.clang_format_fallbackStyle": "Google"
+  "C_Cpp.clang_format_fallbackStyle": "Google",
+  "cmake.configureOnOpen": false
 }

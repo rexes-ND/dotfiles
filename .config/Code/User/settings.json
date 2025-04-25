@@ -1,0 +1,12 @@
+{
+  "editor.minimap.enabled": false,
+  "editor.fontFamily": "Source Code Pro",
+  "workbench.colorTheme": "Monokai",
+  "workbench.iconTheme": "material-icon-theme",
+  "terminal.integrated.defaultProfile.linux": "bash",
+  "vim.handleKeys": {
+    "<C-w>": false,
+    "<C-p>": false
+  },
+  "files.insertFinalNewline": true
+}
